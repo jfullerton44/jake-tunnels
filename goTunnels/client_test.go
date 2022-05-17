@@ -16,9 +16,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/microsoft/dev-tunnels/goTunnels/ssh/messages"
+	"github.com/jfullerton44/jake-tunnels/goTunnels/ssh/messages"
 
-	tunnelstest "github.com/microsoft/dev-tunnels/goTunnels/test"
+	tunnelstest "github.com/jfullerton44/jake-tunnels/goTunnels/test"
 )
 
 func TestSuccessfulConnect(t *testing.T) {

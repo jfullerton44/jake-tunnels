@@ -1,4 +1,4 @@
-module github.com/microsoft/dev-tunnels
+module github.com/jfullerton44/jake-tunnels
 
 go 1.17
 

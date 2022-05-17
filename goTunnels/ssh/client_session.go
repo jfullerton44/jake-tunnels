@@ -17,7 +17,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/microsoft/dev-tunnels/goTunnels/ssh/messages"
+	"github.com/jfullerton44/jake-tunnels/goTunnels/ssh/messages"
 	"golang.org/x/crypto/ssh"
 )
 

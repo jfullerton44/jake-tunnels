@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/microsoft/dev-tunnels/goTunnels/ssh/messages"
+	"github.com/jfullerton44/jake-tunnels/goTunnels/ssh/messages"
 )
 
 type mockChannelOpener struct {
